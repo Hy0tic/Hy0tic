@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hy0tic&theme=maroongold&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hy0tic&theme=maroongold&count_private=true&layout=compact)
+
+## Tech Stacks
+[![My Skills](https://skillicons.dev/icons?i=cs,python,dotnet,mysql,postgresql,react,bash,githubactions&perline=10)](https://skillicons.dev)

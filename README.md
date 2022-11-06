@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react&perline=10)](https://skillicons.dev)
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,azure,aws&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,githubactions,docker,azure,aws&perline=10)](https://skillicons.dev)

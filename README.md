@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Github Status
+## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hy0tic&theme=transparent&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hy0tic&theme=transparent&count_private=true&layout=compact)

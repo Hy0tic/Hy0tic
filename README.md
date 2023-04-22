@@ -21,15 +21,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hy0tic&theme=transparent&count_private=true&layout=compact)
 
-## Tech Stacks
-**Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=cs,python,dotnet,mysql,postgresql&perline=10)](https://skillicons.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react&perline=10)](https://skillicons.dev)
-
-**DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=bash,githubactions,docker,azure,aws&perline=10)](https://skillicons.dev)
